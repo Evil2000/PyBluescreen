@@ -9,11 +9,11 @@ The script uses the first BT adapter found in the system, mainly "hci0". This mi
 If so, check the source code below and do the necessary changes.
 You might also use the tool "d-feet" to explore and debug the DBus.
 
-@author:     dave
-@copyright:  2017 dave
+@author:     Evil2000
+@copyright:  2017 Evil2000
 @license:    LGPL
-@contact:    david.schueler@schueler.homeip.net
-@deffield    updated: 08.09.2017
+@contact:    evil.2000@web.de
+@deffield    updated: 28.09.2017
 '''
 
 import time
